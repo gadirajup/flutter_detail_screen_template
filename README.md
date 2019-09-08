@@ -1,0 +1,1 @@
+# flutter_detail_screen_template
